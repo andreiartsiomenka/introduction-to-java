@@ -1,7 +1,7 @@
 package by.basic.loop;
 
 /*
- * 3. Найти сумму квадратов первых ста чисел.
+ * 3. РќР°Р№С‚Рё СЃСѓРјРјСѓ РєРІР°РґСЂР°С‚РѕРІ РїРµСЂРІС‹С… СЃС‚Р° С‡РёСЃРµР».
  * */
 public class task3 {
 	public static void main(String[] args) {
