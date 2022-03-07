@@ -2,10 +2,6 @@ package by.basic.loop;
 
 import java.util.Scanner;
 
-/*
- * 2.Вычислить значения функции на отрезке [а,b] c шагом h:
- * 
- * */
 public class task2 {
 	public static void main(String[] args) {
 	Scanner scanner = new Scanner(System.in);
@@ -24,7 +20,7 @@ public class task2 {
         } else {
             y = i * (-1);
         }
-        System.out.println("При х = " + i + " у = " + y);
+        System.out.println("ГЏГ°ГЁ Гµ = " + i + " Гі = " + y);
 	scanner.close();
     }
 }
