@@ -20,7 +20,7 @@ public class task2 {
         } else {
             y = i * (-1);
         }
-        System.out.println("Ïðè õ = " + i + " ó = " + y);
+        System.out.println("x = " + i + " y = " + y);
 	scanner.close();
     }
 }
